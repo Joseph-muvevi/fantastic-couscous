@@ -1,0 +1,16 @@
+.layout{
+	width: 73vw;
+	margin: 0px auto;
+	background-color: white;
+	min-height: 300vh;
+}
+
+.layout-inner{
+	position: absolute;
+	width: 50vw;
+	margin: auto;
+	top: 8vh;
+	left: 25vw;
+	z-index: 3;
+	text-align: left;
+}

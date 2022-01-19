@@ -1,0 +1,63 @@
+
+/* =======HEADER======== */
+.header-content{
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+.header-image{
+	width: 17vw;
+	height: 42.87vh;
+}
+
+.header-content-right{
+	color: white;
+	text-align: center;
+}
+
+.header-title{
+	font-size: 33px;
+	text-transform: uppercase;
+}
+
+.header-sub-title{
+	font-size: 30px;
+}
+
+/* =========CONTENT============ */
+.content{
+	padding: 10px;
+	min-height: 60vh;
+	background: rgb(71,66,65);
+	background: linear-gradient(180deg, rgba(71,66,65,0) 0%, rgba(63,59,59,0.65) 7%, rgba(49,44,49,0.83) 16%, rgba(48,46,50,0.8743872549019608) 21%, rgba(42,42,48,0.97) 27%, rgba(42,42,49,1) 100%);
+}
+
+.content-content{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+.content-paragraphs{
+	width: 22vw;
+	text-align: justify;
+	margin: 10px 0px;
+	color: white;
+}
+
+/* ==========CONTENT IN WHITE=========== */
+.white-content{
+	background-color: #c0c0c1;
+	color: black;
+}
+
+.start-circle{
+	background-color: red;
+	width: 100px;
+	border-radius: 50%;
+	position: relative;
+	z-index: 20;
+	content: "";
+}
