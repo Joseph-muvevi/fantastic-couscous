@@ -4,7 +4,7 @@ import "./BackgroundLayout.css";
 const BackgroundTop = () => {
 	return (
 		<div className="backgound-top">
-			background top
+			
 		</div>
 	)
 }

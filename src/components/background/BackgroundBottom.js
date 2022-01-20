@@ -4,7 +4,7 @@ import "./BackgroundLayout.css"
 const BackgroundBottom = () => {
 	return (
 		<div className="background-bottom">
-			{/*  */}
+
 		</div>
 	)
 }
